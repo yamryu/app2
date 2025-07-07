@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+
+.page {
+  display: none;
+}
+.page.active {
+  display: block;
+}
